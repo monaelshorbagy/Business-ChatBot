@@ -4,7 +4,7 @@ from sqlalchemy.orm import relationship
 from datetime import datetime
 Base = declarative_base()
 
-db_uri = 'sqlite:///C:/ChatBots/test/test.db'
+db_uri  = 'sqlite:///C:/Users/mona.elshorbagy/Documents/business-chatbot/Business-Chatbot/test.db'
 
 class User(Base): 
     __tablename__ ="users"

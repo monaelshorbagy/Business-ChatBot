@@ -4,7 +4,7 @@ from datetime import datetime
 from models import User, Session, Message, Feedback
 from password import generate_salt,hash_password,check_password
 
-uri = 'sqlite:///C:/ChatBots/test/test.db'
+uri = 'sqlite:///C:/Users/mona.elshorbagy/Documents/business-chatbot/Business-Chatbot/test.db'
     
 
 class DataAccess:
