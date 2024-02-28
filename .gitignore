@@ -162,6 +162,5 @@ cython_debug/
 *.zip/
 documents/
 SRS/
-guidelines/
 
 
